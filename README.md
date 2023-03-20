@@ -79,9 +79,9 @@ The main features of LPC2148 include the following.
 
 
 
-## STM 32 CUBE PROGRAM :
+### STM 32 CUBE PROGRAM :
 # Developed By: P.Siva Naga Nithin.
-### Reg.No: 212221240037.
+# Reg.No: 212221240037.
 ```
 #include "main.h"
 
